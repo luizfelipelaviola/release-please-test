@@ -66,3 +66,5 @@ jobs:
         uses: mikepenz/release-changelog-builder-action@v5
         with:
           failOnError: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
