@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-beta](https://github.com/luizfelipelaviola/release-please-test/compare/release-please-test-v0.0.1-beta...release-please-test-v0.1.0-beta) (2025-01-31)
+
+
+### Features
+
+* a new feature ([d282489](https://github.com/luizfelipelaviola/release-please-test/commit/d282489ced4150e09dbf57d5bd85fe113c382c91))
+
 ## 0.0.1-beta (2025-01-31)
 
 
