@@ -6,6 +6,7 @@
   "bump-minor-pre-major": true,
   "packages": {
     ".": {
+      "release-type": "node",
       "package-name": "release-please-test"
     }
   }
