@@ -10,5 +10,7 @@
       "release-type": "node",
       "package-name": "release-please-test"
     }
-  }
+  },
+  "prerelease": false,
+  "versioning": "default"
 }
