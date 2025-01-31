@@ -19,7 +19,7 @@ jobs:
         id: prepare-release
         uses: googleapis/release-please-action@v4
         with:
-          # target-branch: ${{ github.ref_name }}
+          target-branch: ${{ github.ref_name }}
           release-type: node
           skip-github-release: true
           config-file: .github/config/release-please-config-${{ github.ref_name }}.json
@@ -47,7 +47,7 @@ jobs:
         id: release
         uses: googleapis/release-please-action@v4
         with:
-          # target-branch: ${{ github.ref_name }}
+          target-branch: ${{ github.ref_name }}
           release-type: node
           skip-github-pull-request: true
           config-file: .github/config/release-please-config-${{ github.ref_name }}.json
