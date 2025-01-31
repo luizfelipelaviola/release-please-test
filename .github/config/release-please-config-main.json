@@ -4,8 +4,10 @@
   "include-v-in-tag": true,
   "always-update": true,
   "bump-minor-pre-major": true,
+  "initial-version": "0.0.1",
   "packages": {
     ".": {
+      "release-type": "node",
       "package-name": "release-please-test"
     }
   }
