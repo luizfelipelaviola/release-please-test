@@ -1,3 +1,3 @@
 module.exports = {
-  change: 'abc'
+  change: 'abcd'
 }
