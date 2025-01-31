@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-beta.2](https://github.com/luizfelipelaviola/release-please-test/compare/release-please-test-v0.1.0-beta.1...release-please-test-v0.1.0-beta.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* pipeline ([fb642f9](https://github.com/luizfelipelaviola/release-please-test/commit/fb642f91017c7271e2c57b6b940c3c338bb55e88))
+
 ## [0.1.0-beta.1](https://github.com/luizfelipelaviola/release-please-test/compare/release-please-test-v0.1.0-beta...release-please-test-v0.1.0-beta.1) (2025-01-31)
 
 
