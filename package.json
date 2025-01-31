@@ -1,6 +1,6 @@
 {
   "name": "release-please-test",
-  "version": "0.0.2-beta.1",
+  "version": "0.0.0",
   "main": "index.js",
   "author": "luizfelipelaviola <luiz@laviola.dev>",
   "license": "MIT"

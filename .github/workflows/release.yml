@@ -25,7 +25,7 @@ jobs:
           target-branch: ${{ github.ref_name }}
           skip-github-release: true
           config-file: .github/config/release-please-config-${{ github.ref_name }}.json
-          manifest-file: .github/config/release-please-manifest.json
+          manifest-file: .github/config/release-please-manifest-${{ github.ref_name }}.json
 
       - name: Show release
         env:
@@ -54,7 +54,7 @@ jobs:
           target-branch: ${{ github.ref_name }}
           skip-github-pull-request: true
           config-file: .github/config/release-please-config-${{ github.ref_name }}.json
-          manifest-file: .github/config/release-please-manifest.json
+          manifest-file: .github/config/release-please-manifest-${{ github.ref_name }}.json
       
       - name: Show release
         env:
