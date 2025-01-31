@@ -1,3 +1,3 @@
 module.exports = {
-  change: true
+  change: 'a'
 }
