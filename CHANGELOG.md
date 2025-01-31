@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-beta.1](https://github.com/luizfelipelaviola/release-please-test/compare/release-please-test-v0.1.0-beta...release-please-test-v0.1.0-beta.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* changelog creation ([f247490](https://github.com/luizfelipelaviola/release-please-test/commit/f2474902526d57e07934e8d22b6ebb206953b0ef))
+
 ## [0.1.0-beta](https://github.com/luizfelipelaviola/release-please-test/compare/release-please-test-v0.0.1-beta...release-please-test-v0.1.0-beta) (2025-01-31)
 
 
