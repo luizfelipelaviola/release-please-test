@@ -9,7 +9,7 @@
     ".": {
       "release-type": "node",
       "package-name": "release-please-test",
-      "changelog-type": "github"
+      "changelog-path": ".github/CHANGELOG-qa.md"
     }
   },
   "initial-version": "0.0.1-beta",
