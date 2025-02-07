@@ -8,7 +8,8 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "package-name": "release-please-test"
+      "package-name": "release-please-test",
+      "changelog-type": "github"
     }
   },
   "initial-version": "0.0.1",
