@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-beta.4 (2025-02-07)
+
+**Full Changelog**: https://github.com/luizfelipelaviola/release-please-test/compare/v0.1.0-beta.3...v0.1.0-beta.4
+
 ## [0.1.0-beta.3](https://github.com/luizfelipelaviola/release-please-test/compare/v0.1.0-beta.2...v0.1.0-beta.3) (2025-02-07)
 
 
